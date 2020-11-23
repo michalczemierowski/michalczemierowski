@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### my certificates:
-<a href="https://www.hackerrank.com/certificates/4cadf077f266"><img src="https://github.com/michalczemierowski/michalczemierowski/blob/master/hackerrank_0.png" height="256px"></a>
-<a href="https://www.hackerrank.com/certificates/7ae082b511c7"><img src="https://github.com/michalczemierowski/michalczemierowski/blob/master/hackerrank_1.png" height="256px"></a>
